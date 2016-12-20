@@ -1,0 +1,1353 @@
+fileFormatVersion: 2
+guid: 34d6d5f86cebd1c43a0a78ece40072a1
+timeCreated: 1481416248
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: AlienMaleSprites_0
+    21300002: AlienMaleSprites_1
+    21300004: AlienMaleSprites_2
+    21300006: AlienMaleSprites_3
+    21300008: AlienMaleSprites_4
+    21300010: AlienMaleSprites_5
+    21300012: AlienMaleSprites_6
+    21300014: AlienMaleSprites_7
+    21300016: AlienMaleSprites_8
+    21300018: AlienMaleSprites_9
+    21300020: AlienMaleSprites_10
+    21300022: AlienMaleSprites_11
+    21300024: AlienMaleSprites_12
+    21300026: AlienMaleSprites_13
+    21300028: AlienMaleSprites_14
+    21300030: AlienMaleSprites_15
+    21300032: AlienMaleSprites_16
+    21300034: AlienMaleSprites_17
+    21300036: AlienMaleSprites_18
+    21300038: AlienMaleSprites_19
+    21300040: AlienMaleSprites_20
+    21300042: AlienMaleSprites_21
+    21300044: AlienMaleSprites_22
+    21300046: AlienMaleSprites_23
+    21300048: AlienMaleSprites_24
+    21300050: AlienMaleSprites_25
+    21300052: AlienMaleSprites_26
+    21300054: AlienMaleSprites_27
+    21300056: AlienMaleSprites_28
+    21300058: AlienMaleSprites_29
+    21300060: AlienMaleSprites_30
+    21300062: AlienMaleSprites_31
+    21300064: AlienMaleSprites_32
+    21300066: AlienMaleSprites_33
+    21300068: AlienMaleSprites_34
+    21300070: AlienMaleSprites_35
+    21300072: AlienMaleSprites_36
+    21300074: AlienMaleSprites_37
+    21300076: AlienMaleSprites_38
+    21300078: AlienMaleSprites_39
+    21300080: AlienMaleSprites_40
+    21300082: AlienMaleSprites_41
+    21300084: AlienMaleSprites_42
+    21300086: AlienMaleSprites_43
+    21300088: AlienMaleSprites_44
+    21300090: AlienMaleSprites_45
+    21300092: AlienMaleSprites_46
+    21300094: AlienMaleSprites_47
+    21300096: AlienMaleSprites_48
+    21300098: AlienMaleSprites_49
+    21300100: AlienMaleSprites_50
+    21300102: AlienMaleSprites_51
+    21300104: AlienMaleSprites_52
+    21300106: AlienMaleSprites_53
+    21300108: AlienMaleSprites_54
+    21300110: AlienMaleSprites_55
+    21300112: AlienMaleSprites_56
+    21300114: AlienMaleSprites_57
+    21300116: AlienMaleSprites_58
+    21300118: AlienMaleSprites_59
+    21300120: AlienMaleSprites_60
+    21300122: AlienMaleSprites_61
+    21300124: AlienMaleSprites_62
+    21300126: AlienMaleSprites_63
+    21300128: AlienMaleSprites_64
+    21300130: AlienMaleSprites_65
+    21300132: AlienMaleSprites_66
+    21300134: AlienMaleSprites_67
+    21300136: AlienMaleSprites_68
+    21300138: AlienMaleSprites_69
+    21300140: AlienMaleSprites_70
+    21300142: AlienMaleSprites_71
+    21300144: AlienMaleSprites_72
+    21300146: AlienMaleSprites_73
+    21300148: AlienMaleSprites_74
+    21300150: AlienMaleSprites_75
+    21300152: AlienMaleSprites_76
+    21300154: AlienMaleSprites_77
+    21300156: AlienMaleSprites_78
+    21300158: AlienMaleSprites_79
+    21300160: AlienMaleSprites_80
+    21300162: AlienMaleSprites_81
+    21300164: AlienMaleSprites_82
+    21300166: AlienMaleSprites_83
+    21300168: AlienMaleSprites_84
+    21300170: AlienMaleSprites_85
+    21300172: AlienMaleSprites_86
+    21300174: AlienMaleSprites_87
+    21300176: AlienMaleSprites_88
+    21300178: AlienMaleSprites_89
+    21300180: AlienMaleSprites_90
+    21300182: AlienMaleSprites_91
+    21300184: AlienMaleSprites_92
+    21300186: AlienMaleSprites_93
+    21300188: AlienMaleSprites_94
+    21300190: AlienMaleSprites_95
+    21300192: AlienMaleSprites_96
+    21300194: AlienMaleSprites_97
+    21300196: AlienMaleSprites_98
+    21300198: AlienMaleSprites_99
+    21300200: AlienMaleSprites_100
+    21300202: AlienMaleSprites_101
+    21300204: AlienMaleSprites_102
+    21300206: AlienMaleSprites_103
+    21300208: AlienMaleSprites_104
+    21300210: AlienMaleSprites_105
+    21300212: AlienMaleSprites_106
+    21300214: AlienMaleSprites_107
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: AlienMaleSprites_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 632
+        width: 23
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: AlienMaleSprites_1
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 632
+        width: 25
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: AlienMaleSprites_2
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 632
+        width: 23
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: AlienMaleSprites_3
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 632
+        width: 23
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: AlienMaleSprites_4
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 632
+        width: 25
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: AlienMaleSprites_5
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 632
+        width: 23
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: AlienMaleSprites_6
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 632
+        width: 23
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: AlienMaleSprites_7
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 632
+        width: 25
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: AlienMaleSprites_8
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 632
+        width: 23
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: AlienMaleSprites_9
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 575
+        width: 21
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: AlienMaleSprites_10
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 575
+        width: 20
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: AlienMaleSprites_11
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 575
+        width: 20
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: AlienMaleSprites_12
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 575
+        width: 21
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: AlienMaleSprites_13
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 575
+        width: 20
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: AlienMaleSprites_14
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 575
+        width: 20
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: AlienMaleSprites_15
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 575
+        width: 21
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: AlienMaleSprites_16
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 575
+        width: 20
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: AlienMaleSprites_17
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 575
+        width: 20
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: AlienMaleSprites_18
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 518
+        width: 21
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: AlienMaleSprites_19
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 518
+        width: 20
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: AlienMaleSprites_20
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 518
+        width: 20
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: AlienMaleSprites_21
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 518
+        width: 21
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: AlienMaleSprites_22
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 518
+        width: 20
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: AlienMaleSprites_23
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 518
+        width: 20
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: AlienMaleSprites_24
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 518
+        width: 21
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: AlienMaleSprites_25
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 518
+        width: 20
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: AlienMaleSprites_26
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 518
+        width: 20
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: AlienMaleSprites_27
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 461
+        width: 23
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: AlienMaleSprites_28
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 461
+        width: 25
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: AlienMaleSprites_29
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 461
+        width: 23
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: AlienMaleSprites_30
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 461
+        width: 23
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: AlienMaleSprites_31
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 461
+        width: 25
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: AlienMaleSprites_32
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 461
+        width: 23
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: AlienMaleSprites_33
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 461
+        width: 23
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: AlienMaleSprites_34
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 461
+        width: 25
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: AlienMaleSprites_35
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 461
+        width: 23
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: AlienMaleSprites_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 404
+        width: 23
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: AlienMaleSprites_37
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 404
+        width: 23
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: AlienMaleSprites_38
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 404
+        width: 23
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: AlienMaleSprites_39
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 404
+        width: 23
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: AlienMaleSprites_40
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 404
+        width: 23
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: AlienMaleSprites_41
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 404
+        width: 23
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: AlienMaleSprites_42
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 404
+        width: 23
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: AlienMaleSprites_43
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 404
+        width: 23
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: AlienMaleSprites_44
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 404
+        width: 23
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: AlienMaleSprites_45
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 347
+        width: 20
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: AlienMaleSprites_46
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 347
+        width: 20
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: AlienMaleSprites_47
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 347
+        width: 24
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: AlienMaleSprites_48
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 347
+        width: 20
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: AlienMaleSprites_49
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 347
+        width: 20
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: AlienMaleSprites_50
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 347
+        width: 24
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: AlienMaleSprites_51
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 347
+        width: 21
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: AlienMaleSprites_52
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 347
+        width: 20
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: AlienMaleSprites_53
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 347
+        width: 20
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: AlienMaleSprites_54
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 290
+        width: 20
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: AlienMaleSprites_55
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 290
+        width: 20
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: AlienMaleSprites_56
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 290
+        width: 24
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: AlienMaleSprites_57
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 290
+        width: 20
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: AlienMaleSprites_58
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 290
+        width: 20
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: AlienMaleSprites_59
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 290
+        width: 24
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: AlienMaleSprites_60
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 290
+        width: 21
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: AlienMaleSprites_61
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 290
+        width: 20
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: AlienMaleSprites_62
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 290
+        width: 20
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: AlienMaleSprites_63
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 233
+        width: 23
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: AlienMaleSprites_64
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 233
+        width: 23
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: AlienMaleSprites_65
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 233
+        width: 23
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: AlienMaleSprites_66
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 233
+        width: 23
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: AlienMaleSprites_67
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 233
+        width: 23
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: AlienMaleSprites_68
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 233
+        width: 23
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: AlienMaleSprites_69
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 233
+        width: 23
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: AlienMaleSprites_70
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 233
+        width: 23
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: AlienMaleSprites_71
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 233
+        width: 23
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: AlienMaleSprites_72
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 176
+        width: 23
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: AlienMaleSprites_73
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 176
+        width: 23
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: AlienMaleSprites_74
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 176
+        width: 23
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: AlienMaleSprites_75
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 176
+        width: 23
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: AlienMaleSprites_76
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 176
+        width: 23
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: AlienMaleSprites_77
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 176
+        width: 23
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: AlienMaleSprites_78
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 176
+        width: 24
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: AlienMaleSprites_79
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 176
+        width: 25
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: AlienMaleSprites_80
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 176
+        width: 23
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: AlienMaleSprites_81
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 119
+        width: 20
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: AlienMaleSprites_82
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 119
+        width: 21
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: AlienMaleSprites_83
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 119
+        width: 24
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: AlienMaleSprites_84
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 119
+        width: 20
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: AlienMaleSprites_85
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 119
+        width: 21
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: AlienMaleSprites_86
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 119
+        width: 24
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: AlienMaleSprites_87
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 120
+        width: 20
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: AlienMaleSprites_88
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 119
+        width: 27
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: AlienMaleSprites_89
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 119
+        width: 46
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: AlienMaleSprites_90
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 62
+        width: 20
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: AlienMaleSprites_91
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 62
+        width: 21
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: AlienMaleSprites_92
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 62
+        width: 24
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: AlienMaleSprites_93
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 62
+        width: 20
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: AlienMaleSprites_94
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 62
+        width: 21
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: AlienMaleSprites_95
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 62
+        width: 24
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: AlienMaleSprites_96
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 63
+        width: 20
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: AlienMaleSprites_97
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 62
+        width: 27
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: AlienMaleSprites_98
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 62
+        width: 46
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: AlienMaleSprites_99
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5
+        width: 23
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: AlienMaleSprites_100
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 5
+        width: 23
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: AlienMaleSprites_101
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 5
+        width: 23
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: AlienMaleSprites_102
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 5
+        width: 23
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: AlienMaleSprites_103
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 5
+        width: 23
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: AlienMaleSprites_104
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 5
+        width: 23
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: AlienMaleSprites_105
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 5
+        width: 23
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: AlienMaleSprites_106
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 2
+        width: 25
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: AlienMaleSprites_107
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 0
+        width: 25
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
